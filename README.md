@@ -1,4 +1,3 @@
-Forget to add IP address in submission note
 
 Here is the IP address: a777b31c29a7c42448317dd77d0f3464-370530552.us-east-2.elb.amazonaws.com
 
